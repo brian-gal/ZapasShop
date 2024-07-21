@@ -1,4 +1,6 @@
 .portada img {
     width: 100%;
-    height: 200px;
+    height: 600px;
+    object-fit: cover;
+    object-position: center;
 }

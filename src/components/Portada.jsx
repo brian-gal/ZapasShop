@@ -1,9 +1,10 @@
 import './css/Portada.css';
+import imagen from "../assets/portada.webp"
 
 function Portada() {
     return (
         <div className='portada'>
-            <img src="../assets/portada.webp" alt="" />
+            <img src={imagen} alt="" />
         </div>
     );
 }

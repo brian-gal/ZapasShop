@@ -12,7 +12,7 @@ function App() {
         <Portada />
       </header>
       <main>
-        <ItemListContainer greeting="¡Bienvenido a nuestra tienda de zapatillas!" />
+        <ItemListContainer greeting="¡Proximamente tienda de zapatillas!" />
       </main>
     </>
   );
